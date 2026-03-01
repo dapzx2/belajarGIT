@@ -1,0 +1,4 @@
+Tugas JavaScript
+Belajar dasar JavaScript untuk web
+Variabel, fungsi, DOM, event
+Dava Oktavito Josua L. Ulus - 220211060323
