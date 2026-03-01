@@ -1,0 +1,4 @@
+Tugas CSS
+Belajar styling halaman web dengan CSS
+Selektor, properti, flexbox, grid, responsive design
+Dava Oktavito Josua L. Ulus - 220211060323
