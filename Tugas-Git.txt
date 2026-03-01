@@ -1,0 +1,4 @@
+Tugas Git
+Belajar dasar-dasar penggunaan Git dan GitHub
+Cloning, commit, push, branch, merge
+Dava Oktavito Josua L. Ulus - 220211060323
