@@ -1,0 +1,4 @@
+Tugas Mid Project
+Project tengah semester pemrograman web
+Implementasi HTML, CSS, dan JavaScript
+Dava Oktavito Josua L. Ulus - 220211060323
